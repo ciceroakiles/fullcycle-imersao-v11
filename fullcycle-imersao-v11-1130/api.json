@@ -1,0 +1,12 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Neymar"
+    },
+    {
+      "id": 2,
+      "name": "Messi"
+    }
+  ]
+}
